@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cahidcbv
-- 👀 I’m interested in Front-end developing
-- 🌱 I’m currently learning Javascript
+-  Hi, I’m @Cahidcbv
+-  I’m interested in Front-end developing
+-  I’m currently learning Javascript
 - 📫 How to reach me : jaika7@mail.ru
 
 <!---
